@@ -4,3 +4,6 @@ for my_info in info_tuple:
     # 使用格式字符串拼接my_info 这个变量不方便
     # 因为元组中通常保存的数据类型是不同的
     print("我的名字叫%s" % my_info)
+
+info = ("smile",18)
+print("%s的年龄是%d"%info)
