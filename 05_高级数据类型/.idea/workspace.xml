@@ -15,61 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sml_13_字典的应用场景.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sml_13_字典的应用场景.py">
+      <file leaf-file-name="sml_18_字符串文本对齐.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sml_18_字符串文本对齐.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="675">
+              <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sml_05_列表遍历.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sml_05_列表遍历.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sml_14_字符串定义和遍历.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sml_14_字符串定义和遍历.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sml_15_字符串统计操作.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sml_15_字符串统计操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sml_16_字符串判断方法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sml_16_字符串判断方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sml_17_字符串的查找和替换.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sml_17_字符串的查找和替换.py">
+      <file leaf-file-name="sml_19_字符串拆分和拼接.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sml_19_字符串拆分和拼接.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -104,14 +64,16 @@
         <option value="$PROJECT_DIR$/sml_15_字符串统计操作.py" />
         <option value="$PROJECT_DIR$/sml_16_字符串判断方法.py" />
         <option value="$PROJECT_DIR$/sml_17_字符串的查找和替换.py" />
+        <option value="$PROJECT_DIR$/sml_18_字符串文本对齐.py" />
+        <option value="$PROJECT_DIR$/sml_19_字符串拆分和拼接.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="23" />
+    <option name="x" value="238" />
+    <option name="y" value="199" />
     <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -150,41 +112,7 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.sml_17_字符串的查找和替换">
-    <configuration default="false" name="sml_13_字典的应用场景" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="05_高级数据类型" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sml_13_字典的应用场景.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sml_14_字符串定义和遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="05_高级数据类型" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sml_14_字符串定义和遍历.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sml_19_字符串拆分和拼接">
     <configuration default="false" name="sml_15_字符串统计操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,6 +160,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="05_高级数据类型" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sml_17_字符串的查找和替换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sml_18_字符串文本对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="05_高级数据类型" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sml_18_字符串文本对齐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sml_19_字符串拆分和拼接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="05_高级数据类型" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sml_19_字符串拆分和拼接.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -371,19 +333,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sml_13_字典的应用场景" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sml_14_字符串定义和遍历" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sml_15_字符串统计操作" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sml_16_字符串判断方法" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sml_17_字符串的查找和替换" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sml_15_字符串统计操作" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sml_16_字符串判断方法" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sml_17_字符串的查找和替换" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sml_18_字符串文本对齐" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sml_19_字符串拆分和拼接" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sml_17_字符串的查找和替换" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sml_16_字符串判断方法" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sml_15_字符串统计操作" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sml_14_字符串定义和遍历" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sml_13_字典的应用场景" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sml_19_字符串拆分和拼接" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sml_18_字符串文本对齐" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sml_17_字符串的查找和替换" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sml_16_字符串判断方法" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sml_15_字符串统计操作" />
       </list>
     </recent_temporary>
   </component>
@@ -401,15 +363,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="23" width="1280" height="731" extended-state="1" />
-    <editor active="false" />
+    <frame x="238" y="199" width="1280" height="729" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.01015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.01640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33987916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29545453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -530,14 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sml_01_列表基本使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sml_09_字典的定义.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -614,6 +568,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sml_01_列表基本使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sml_18_字符串文本对齐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sml_19_字符串拆分和拼接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
