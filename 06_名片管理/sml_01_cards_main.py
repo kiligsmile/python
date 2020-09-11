@@ -1,3 +1,4 @@
+#! /usr/local/bin/python3
 import sml_01_cards_tools
 while True:
 # 无限循环，由用户主动决定什么时候退出循环！
