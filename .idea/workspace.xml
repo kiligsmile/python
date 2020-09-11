@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0149ed5b-3ba8-4ab0-822e-9e8c76d14564" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_极速体验.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hm_01_九九乘法表.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_03_第一个函数.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_04_第一个函数改造.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_05_函数的参数.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_06_函数的返回值.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_07_函数的嵌套调用.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_08_ 打印分隔线.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_09_打印多条分隔线.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_10_ 体验模块.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sml_10_分隔线模块.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_函数/.idea/workspace.xml" afterPath="$PROJECT_DIR$/04_函数/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_高级数据类型/.idea/workspace.xml" afterPath="$PROJECT_DIR$/05_高级数据类型/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,7 +104,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -424,6 +412,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hm_04_超市买苹果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_08_超市买苹果改进.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hm_04_超市买苹果.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
