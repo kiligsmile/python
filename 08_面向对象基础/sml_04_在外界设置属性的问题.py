@@ -10,16 +10,10 @@ class Cat:
 # 创建猫对象
 tom = Cat()
 # 给对象增加属性 可以使用 .属性名  利用赋值语句就可以了
-tom.name = "Tom"
+# tom.name = "Tom"
 tom.eat()
 tom.drink()
-print(tom)
-# 再创建一个猫对象
-lazy_cat = Cat()
-lazy_cat.name="大懒猫"
-lazy_cat.eat()
-lazy_cat.drink()
-print(lazy_cat)
-
-lazy_cat2=lazy_cat
-print(lazy_cat2)
+# 在日常开发中，不推荐在类的外部给对象增加属性
+# 因为如果在运行时没有找到属性，程序会报错
+# 对象应该包含有哪些属性，应该封装在类的内部
+tom.name()="Tom"
